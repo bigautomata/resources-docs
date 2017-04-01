@@ -1,2 +1,2 @@
 # resources-docs
-Just a repo for documentation resources only.
+Just a simple repo uses only for documentation resources.
