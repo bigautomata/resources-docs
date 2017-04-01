@@ -1,8 +1,8 @@
 For the Mac OSX platform/system:
 
-1# Java distribution includes JDK is usually in this location: /Library/Java/JavaVirtualMachines/
+1# Java distribution includes JDK is usually in this location /Library/Java/JavaVirtualMachines/
 
-2# Man pages for java utilities available in this location: /Library/Java/JavaVirtualMachines/jdk1.8.0_31.jdk/Contents/Home/man/man1
+2# Man pages for java utilities available in this location /Library/Java/JavaVirtualMachines/jdk1.8.0_31.jdk/Contents/Home/man/man1
 
 3# How to view the man pages for Java utilities?
  
